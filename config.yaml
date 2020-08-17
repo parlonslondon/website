@@ -1,0 +1,14 @@
+baseURL: "http://parlonslondon.ca/"
+languageCode: "en-ca"
+title: Parlons London
+theme: hyde
+Menus:
+  main:
+    - Name: "À propos de nous / About Us"
+      Url: "/about"
+    - Name: "Apprendre français / Learning French"
+      Url: "/resources"
+params:
+  description: "A French language group in London, Ontario, Canada"
+  layoutReverse: false
+  
