@@ -6,8 +6,6 @@ Menus:
   main:
     - Name: "À propos de nous / About Us"
       Url: "/about"
-    - Name: "Contactez nous / Contact us"
-      Url: "/page/contact"
     - Name: "Learning French"
       Url: "/page/ressources"
 params:
