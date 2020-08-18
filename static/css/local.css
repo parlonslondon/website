@@ -1,0 +1,4 @@
+/* override the font size on the sidebar to be a bit more mobile-friendly */
+.sidebar-about h1 {
+  font-size: 2rem;
+}
