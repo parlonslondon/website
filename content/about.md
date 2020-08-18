@@ -14,3 +14,12 @@ _We are a French language conversation group in London, Ontario, Canada_
 En temps normal nous nous rencontrons en personne au centre-ville de London, Ontario mais pendant la crise de COVID-19 nous nous rencontrons en ligne. Non-Lononiens sont sans aucun doute bienvenue à nos réunions virtuels! Cliquer sur [page de contact](../page/contact/) pour les prochaines réunions. Nos réunions sont très détendu et nous accueillons des locuteurs de français à tous les niveaux.
 
 _Under normal circumstances we meet in person in downtown London, Ontario but during the COVID-19 crisis we are meeting online. Non-Londoners are absolutely welcome at our online meetings! See the [contact page](../page/contact/) to find out about upcoming meetings. Meetings are very casual and French speakers of all levels are welcome._
+
+## Contactez-nous / Contact Us
+
+* Rejoignez-nous à notre groupe de [Meetup](https://www.meetup.com/French-Conversation-in-London/). _Join us on our Meetup group._
+* Pour rejoindre notre liste de diffusion, envoyez un e-mail vierge à [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)  
+_To join our mailing list send a blank email to [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)_
+* Discutez avec nous sur [Slack](https://parlonslondon.slack.com). _Chat with us on Slack._
+
+
