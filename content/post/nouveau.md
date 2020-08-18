@@ -5,6 +5,7 @@ draft: false
 ---
 
 Bienvenue à notre nouveau site-web. Veuiller patienter pendant que nous le mettrons en service.
+
 _Welcome to our new website. Please bear with us while we get it up and running._
 
 <!--more-->
