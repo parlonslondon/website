@@ -1,4 +1,4 @@
-baseURL: "http://parlonslondon.ca/"
+baseURL: "https://joat.me/parlons/"
 languageCode: "en-ca"
 title: Parlons London
 theme: hyde
@@ -6,9 +6,11 @@ Menus:
   main:
     - Name: "À propos de nous / About Us"
       Url: "/about"
-    - Name: "Apprendre français / Learning French"
-      Url: "/resources"
+    - Name: "Contactez nous / Contact us"
+      Url: "/page/contact"
+    - Name: "Learning French"
+      Url: "/page/ressources"
 params:
-  description: "A French language group in London, Ontario, Canada"
+  description: "Un groupe de conversation en français à London, Ontario, Canada"
   layoutReverse: false
   
