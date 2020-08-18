@@ -6,5 +6,8 @@ draft: false
 
 
 * Rejoignez-nous à notre groupe de [Meetup](https://www.meetup.com/French-Conversation-in-London/). _Join us on our Meetup group._
-* Joignez-vous à notre [liste de distribution](missing). _Join our mailing list._
-* Discutez avec nous sur [Slack](slack-link). _Chat with us on Slack._
+* Pour rejoindre notre liste de diffusion, envoyez un e-mail vierge à [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)  
+_To join our mailing list send a blank email to [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)_
+* Discutez avec nous sur [Slack](https://parlonslondon.slack.com). _Chat with us on Slack._
+
+
