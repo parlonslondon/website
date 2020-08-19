@@ -8,14 +8,14 @@ We don't teach French - we are deliberately a casual group just for conversation
 
 ## Learning
 
-* [Duolingo](https://www.duolingo.com/) - a website and smartphone app that teachs French and many other languages gradually, for free (or for a low fee without ads)
-* [Memrise](https://www.memrise.com/) - a smartphone app that helps learn vocabulary
+* [Duolingo](https://www.duolingo.com/) - a website and smartphone app that teachs French and many other languages gradually, for free (or without ads for an annual fee)
+* [Memrise](https://www.memrise.com/) - a paid smartphone app that helps learn vocabulary
 * [Rosetta Stone](https://www.rosettastone.com/) - paid software with some similarities to Duolingo
-
-## Watching and Listening
-* [Radio-Canada podcasts](https://ici.radio-canada.ca/premiere/balados) - practice listening or just immerse yourself in the sounds
-* [France 24](https://www.france24.com/en/) - 24-hour international news TV station owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g)) with both recorded and live news
 * [Free French course](https://apprendre.tv5monde.com/fr) from TV5MONDE
+
+## Immersion: Watching and Listening
+* [Radio-Canada podcasts](https://ici.radio-canada.ca/premiere/balados) - practice listening or just immerse yourself in the sounds
+* [France 24](https://www.france24.com/en/) - 24-hour international news TV station with a live feed, owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g))
 * [239 French Conversations](https://www.youtube.com/watch?v=LgA3Ynirhms) on YouTube
 
 ## News
