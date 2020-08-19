@@ -2,3 +2,21 @@
 .sidebar-about h1 {
   font-size: 2rem;
 }
+
+/* only show the sidebar image on desktop */
+
+.sidebar-image-portrait {
+    display: none;
+}
+.sidebar-image-landscape {
+    display: inline;
+}
+
+@media (min-width: 48em) {
+  .sidebar-image-landscape {
+      display: none;
+  }
+  .sidebar-image-portrait {
+      display: inline;
+  }
+}
