@@ -14,7 +14,7 @@ We don't teach French - we are deliberately a casual group just for conversation
 
 ## Watching and Listening
 * [Radio-Canada podcasts](https://ici.radio-canada.ca/premiere/balados) - practice listening or just immerse yourself in the sounds
-* [France 24](https://www.france24.com/en/) - France's 24-hour international news TV station (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g)) with both recorded and live news
+* [France 24](https://www.france24.com/en/) - 24-hour international news TV station owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g)) with both recorded and live news
 * [Free French course](https://apprendre.tv5monde.com/fr) from TV5MONDE
 * [239 French Conversations](https://www.youtube.com/watch?v=LgA3Ynirhms) on YouTube
 
