@@ -25,3 +25,5 @@ We don't teach French - we are deliberately a casual group just for conversation
 ## Other Groups
 * [London French<>English Exchange](https://events.duolingo.com/london-frenchenglish-exchange/) from London, UK
 * [Downtown Boston French](https://events.duolingo.com/downtown-boston-french/)
+* [Fullerton French<>English Exchange](https://events.duolingo.com/fullerton-french-english-exchange/) from California
+* [Lille French](https://events.duolingo.com/lille-french/) - French with a French native
