@@ -5,7 +5,7 @@ weight: 100
 draft: false
 ---
 
-Nous sommes groupe de conversation en Français, à London, Ontario, Canada
+Nous sommes un groupe de conversation en Français, à London, Ontario, Canada
 
 _We are a French language conversation group in London, Ontario, Canada_
 
