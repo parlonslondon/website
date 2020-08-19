@@ -18,7 +18,7 @@ _Under normal circumstances we meet in person in downtown London, Ontario but du
 ## Contactez-nous / Contact Us
 
 * Rejoignez-nous à notre groupe de [Meetup](https://www.meetup.com/French-Conversation-in-London/). _Join us on our Meetup group._
-* Notre réunions sur [Duolingo](https://events.duolingo.com/london-french/)
+* Notre réunions sur [Duolingo](https://events.duolingo.com/london-french/) _Our meetings are on Duolingo_
 * Pour rejoindre notre liste de diffusion, envoyez un e-mail vierge à [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)  
 _To join our mailing list send a blank email to [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)_
 * Discutez avec nous sur [Slack](https://parlonslondon.slack.com). _Chat with us on Slack._
