@@ -3,7 +3,7 @@
 set -e
 
 # build the site
-hugo
+./build
 
 cd public
 git add .
