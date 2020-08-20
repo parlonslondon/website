@@ -1,6 +1,15 @@
 #!/bin/bash
 
-cd ~/parlonslondon
-git pull --quiet
-./build
-rsync -avHS --quiet --delete public/ /usr/share/nginx/parlons/
+set -e
+
+# build the site
+hugo
+
+cd public
+git add .
+msg="Rebuilt site $(date)"
+if [ -n "$*" ]; then
+    msg="$*"
+fi
+git commit -m "$msg"
+git push origin master

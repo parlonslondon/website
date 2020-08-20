@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~/parlonslondon
+git pull --quiet
+./build
+rsync -avHS --quiet --delete public/ /usr/share/nginx/parlons/
