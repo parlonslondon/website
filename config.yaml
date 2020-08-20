@@ -6,7 +6,7 @@ Menus:
   main:
     - Name: "À propos de nous / About Us"
       Url: "/about"
-    - Name: "Learning French"
+    - Name: "French Resources"
       Url: "/page/ressources"
 params:
   description: "Un groupe de conversation en français à London, Ontario, Canada"
