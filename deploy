@@ -2,5 +2,5 @@
 
 cd ~/parlonslondon
 git pull --quiet
-hugo --quiet
+./build
 rsync -avHS --quiet --delete public/ /usr/share/nginx/parlons/

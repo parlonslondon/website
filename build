@@ -1,0 +1,4 @@
+#!/bin/bash
+
+git log --max-count=1 --format=%ai >layouts/shortcodes/lastupdate.html
+hugo --quiet

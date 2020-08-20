@@ -23,7 +23,9 @@ _Under normal circumstances we meet in person in downtown London, Ontario but du
 _To join our mailing list send a blank email to [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)_
 * Discutez avec nous sur [Slack](https://parlonslondon.slack.com). _Chat with us on Slack._
 
-### Note technique / Technical note
+### Notes techniques / Technical notes
 
-* Le code source de ce site-web est [disponsible sur Github](https://github.com/joatca/parlonslondon)  
+Le code source de ce site-web est [disponsible sur Github](https://github.com/joatca/parlonslondon)  
 The source code for this website is [available on Github](https://github.com/joatca/parlonslondon)
+
+_Site web mis à jour le / website updated {{< lastupdate >}}_
