@@ -15,7 +15,7 @@ We don't teach French - we are deliberately a casual group just for conversation
 
 ## Immersion: Watching and Listening
 * [Radio-Canada podcasts](https://ici.radio-canada.ca/premiere/balados) - practice listening or just immerse yourself in the sounds
-* [France 24](https://www.france24.com/en/) - 24-hour international news TV station with a live feed, owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g))
+* [France 24](https://www.france24.com/fr/) - 24-hour international news TV station with a live feed, owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g))
 * [239 French Conversations](https://www.youtube.com/watch?v=LgA3Ynirhms) on YouTube
 
 ## News
