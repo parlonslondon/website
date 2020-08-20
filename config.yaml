@@ -10,6 +10,6 @@ Menus:
       Url: "/page/ressources"
 params:
   description: "Un groupe de conversation en français à London, Ontario, Canada"
-  shortdescription: "Conversation en français à London, Ontario"
+  shortdescription: "Groupe de français à London, Ontario"
   layoutReverse: false
   copyright: CC BY-SA 3.0
