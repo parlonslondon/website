@@ -4,8 +4,11 @@
       <img class="sidebar-image-portrait" src="/img/london-portrait.jpg" alt="London, Ontario">
       <img class="sidebar-image-landscape" src="/img/london-landscape.jpg" alt="London, Ontario">
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
-      <p class="lead">
+      <p class="lead" id="sitedesc">
       {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
+      </p>
+      <p class="lead" id="siteshortdesc">
+      {{ with .Site.Params.shortdescription }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
       </p>
     </div>
 

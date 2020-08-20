@@ -11,6 +11,12 @@
 .sidebar-image-landscape {
     display: inline;
 }
+#sitedesc {
+    display: none;
+}
+#siteshortdesc {
+    display: inline;
+}
 
 @media (min-width: 48em) {
   .sidebar-image-landscape {
@@ -18,5 +24,11 @@
   }
   .sidebar-image-portrait {
       display: inline;
+  }
+  #sitedesc {
+      display: inline;
+  }
+  #siteshortdesc {
+      display: none;
   }
 }
