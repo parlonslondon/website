@@ -24,7 +24,7 @@ _To join our mailing list send a blank email to [parlonslondon+subscribe@groups.
 
 ### Notes techniques / Technical notes
 
-Le code source de ce site web est [disponsible sur Github](https://github.com/joatca/parlonslondon) et est hébergé par [Github Pages](https://pages.github.com/)  
-The source code for this website is [available on Github](https://github.com/joatca/parlonslondon) and is hosted by [Github Pages](https://pages.github.com/)  
+Le code source de ce site web est [disponsible sur Github](https://github.com/parlonslondon/website) et est hébergé par [Github Pages](https://pages.github.com/)  
+The source code for this website is [available on Github](https://github.com/parlonslondon/website) and is hosted by [Github Pages](https://pages.github.com/)  
 
 _Site web mis à jour le / website updated {{< lastupdate >}}_
