@@ -29,16 +29,10 @@ URL
 Nous espérons vous voir là-bas! / _Hope to see you there!_
 POST
 
-./build
+echo '**** deploying'
+./deploy
 
-echo '**** committing public'
-pushd public
-git add .
-git commit -m "automatic addition of next meeting"
-git push
-popd
-
-echo '**** committing source'
+echo '**** committing meeting source'
 git add public "${post_filename}"
 git commit public "${post_filename}" -m "automatic addition of next meeting"
 git push
