@@ -1,5 +1,6 @@
 #!/bin/bash
-# create a new post for the next saturday meeting
+# create a new post for the next Saturday meeting, build and commit the site, then commit the meeting source
+# file and the latest site submodule commit (in public)
 
 # Holy Race Conditions, Batman! Just don't run this at midnight on Friday or Saturday, OK?
 post_date=$(date --iso-8601=seconds)
