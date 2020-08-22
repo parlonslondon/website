@@ -10,7 +10,7 @@ post_filename="content/meeting/$(date --date='14:30 next sat' +'%Y-%m-%d').md"
 
 cat >"${post_filename}" <<POST
 ---
-title: "Prochaine réunion / Next meeting"
+title: "Prochaine réunion / Upcoming meeting"
 date: ${post_date}
 draft: false
 ---
