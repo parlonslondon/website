@@ -9,7 +9,9 @@ Menus:
     - Name: "French Resources"
       Url: "/page/ressources"
 params:
-  description: "Un groupe de conversation en français à London, Ontario, Canada"
-  shortdescription: "Groupe de français à London, Ontario"
+  description_fr: "Un groupe de conversation en français à London, Ontario, Canada"
+  description_en: "A French conversation group in London, Ontario, Canada"
+  # there's no short English description
+  shortdescription_fr: "Groupe de français à London, Ontario"
   layoutReverse: false
   copyright: CC BY-SA 3.0
