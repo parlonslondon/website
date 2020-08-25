@@ -10,15 +10,18 @@ fi
 set -e
 
 # build the site
+echo '**** build site'
 ./build
 
 (
+    echo '**** commit public repo'
     cd public
     git add .
     git commit -m "$msg"
     git push origin master
 )
 
+echo '**** commit source repo'
 git add .
 git commit -m "$msg"
 git push
