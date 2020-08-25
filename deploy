@@ -1,15 +1,24 @@
 #!/bin/bash
 
+msg="$*"
+
+if [ -z "$msg" ]; then
+    echo $0: need a commit message
+    exit 1
+fi
+
 set -e
 
 # build the site
 ./build
 
-cd public
+(
+    cd public
+    git add .
+    git commit -m "$msg"
+    git push origin master
+)
+
 git add .
-msg="Rebuilt site $(date)"
-if [ -n "$*" ]; then
-    msg="$*"
-fi
 git commit -m "$msg"
-git push origin master
+git push
