@@ -5,7 +5,7 @@ weight: 100
 draft: false
 ---
 
-* Bavarder avec nous: installer l'appli [Telegram](https://telegram.org/) puis [devenir membre de notre groupe](https://t.me/joinchat/QooAm1jMhWk7uXSdIFew8g)
+* Bavarder avec nous: installer l'appli [Telegram](https://telegram.org/) puis [devenir membre de notre groupe](https://t.me/joinchat/QooAm1jMhWk7uXSdIFew8g). _Chat with us: install the [Telegram](https://telegram.org/) app then [join our group](https://t.me/joinchat/QooAm1jMhWk7uXSdIFew8g)_
 * Pour rejoindre notre liste de diffusion, envoyez un e-mail vierge à [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)  
 _To join our mailing list send a blank email to [parlonslondon+subscribe@groups.io](mailto:parlonslondon+subscribe@groups.io)_
 * Rejoignez-nous à notre groupe de [Meetup](https://www.meetup.com/French-Conversation-in-London/). _Join us on our Meetup group._
