@@ -11,7 +11,7 @@ set -e
 
 # build the site
 echo '**** build site'
-./build
+./build || exit 1
 
 (
     echo '**** commit public repo'
