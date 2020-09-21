@@ -32,7 +32,7 @@ Nous espérons vous voir là-bas! / _Hope to see you there!_
 POST
 
 echo '**** deploying'
-./deploy
+./deploy "$@"
 
 echo '**** committing meeting source'
 git add public "${post_filename}"
