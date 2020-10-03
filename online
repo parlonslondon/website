@@ -34,8 +34,3 @@ POST
 
 echo '**** deploying'
 ./deploy "$@"
-
-echo '**** committing meeting source'
-git add public "${post_filename}"
-git commit public "${post_filename}" -m "automatic addition of next meeting"
-git push
