@@ -17,6 +17,12 @@ En temps normal nous nous rencontrons en personne au centre-ville de London, Ont
 
 _Under normal circumstances we meet in person in downtown London, Ontario but during the COVID-19 crisis we are meeting online. Non-Londoners are absolutely welcome at our online meetings! Meetings are very casual and French speakers of all levels are welcome._
 
+### Note For French Learners
+
+When in-person this group is purely conversational. There are no lessons, no formal topics of conversation and no arranged activities, it's just a group of friends who get together in the pub, except in French. For virtual meetings we try to preserve this same feeling. If you don't yet know any French then you probably won't find it helpful. If you know even a little French (even just a few Duolingo levels) but aren't yet comfortable speaking you are welcome to attend just to listen and develop your "French ears". However, definitely have a go at speaking or ask questions. Nobody will judge you. We've all been there! If you speak French at an intermediate level or better (or are a francophone) it's a chance to brush up your skills. You are not expected to be a teacher or tutor but if you're able to help beginners with questions occasionally then great!
+
+In short: relax, be tolerant, and like everything else you get out of it what you put into it.
+
 ### Notes techniques / Technical notes
 
 Le code source de ce site web est [disponsible sur Github](https://github.com/parlonslondon/website) et est hébergé par [Github Pages](https://pages.github.com/)  
