@@ -9,6 +9,10 @@ text_fr=$(date --date='14:30 next sat' +"Samedi %Y-%m-%d %Hh%M heure de l'Est")
 text_en=$(date --date='14:30 next sat' +"Saturday %Y-%m-%d %I:%M %p Eastern")
 post_filename="content/meeting/$(date --date='14:30 next sat' +'%Y-%m-%d').md"
 
+# delete previous meeting(s)
+echo Removing previous meetings:
+rm -fv content/meeting/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md
+
 cat >"${post_filename}" <<POST
 ---
 title: "Prochaine réunion / Upcoming meeting"
