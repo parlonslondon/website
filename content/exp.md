@@ -5,6 +5,8 @@ draft: false
 ---
 <!--more-->
 
-Pour tester le système de vidéoconférence alternatif après la réunion aujourd'hui, cliquer ici: https://meet.google.com/ecw-idmk-mmb
+Pour tester le système de vidéoconférence alternatif après la réunion aujourd'hui, cliquer ici:
 
-_To test the alternative videoconferencing system after the meeting today, click here:  https://meet.google.com/ecw-idmk-mmb_
+_To test the alternative videoconferencing system after the meeting today, click here:_
+
+https://meet.google.com/ecw-idmk-mmb
