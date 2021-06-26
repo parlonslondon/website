@@ -10,3 +10,5 @@ Pour tester le système de vidéoconférence alternatif après la réunion aujou
 _To test the alternative videoconferencing system after the meeting today, click here:_
 
 https://meet.google.com/ecw-idmk-mmb
+
+Problèmes? Commentaires? help@parlonslondon.ca
