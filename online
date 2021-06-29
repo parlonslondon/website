@@ -8,6 +8,9 @@ expiry_date=$(date --iso-8601=seconds --date='16:30 next sat + 7 days')
 text_fr=$(date --date='14:30 next sat' +"Samedi %Y-%m-%d %Hh%M heure de l'Est")
 text_en=$(date --date='14:30 next sat' +"Saturday %Y-%m-%d %I:%M %p Eastern")
 post_filename="content/meeting/$(date --date='14:30 next sat' +'%Y-%m-%d').md"
+meeting_filename="content/page/meeting.md"
+mtg_url='https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09'
+mtg_info='Or use [Zoom](https://zoom.us/) meeting ID 964 8937 9313 password "ensemble"'
 
 # delete previous meeting(s)
 echo Removing previous meetings:
@@ -28,9 +31,9 @@ Heure / Time
   _${text_en}_
 
 URL
-: https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09
+: ${mtg_url}
 
-Or use [Zoom](https://zoom.us/) meeting ID 964 8937 9313 password "ensemble"
+${mtg_info}
 <!--more-->
 
 Nous espérons vous voir là-bas! / _Hope to see you there!_
