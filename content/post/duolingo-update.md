@@ -1,13 +1,14 @@
 ---
 title: "Duolingo Update for French Learners"
-date: 2021-06-30T17:32:12-04:00
+date: 2021-07-01T10:11:12-04:00
 draft: false
 ---
 
 You may have noticed that [our meeting](/page/reunion) is no longer listed on Duolingo. The meeting is still on, and everyone is welcome to join!
 <!--more-->
-However our Zoom meeting link is unacceptable to Duolingo for some reason and it cannot be listed as the official online meeting link. This means that Duolingo members do not receive XP when they join the meeting. Some people have complained to Duolingo about this and their Event Manager has started forwarding the complaints to the member of our group who posts the meetings there. He has therefore removed the listing to avoid being harassed.
+Our meeting's original home was [Meetup.com](https://www.meetup.com/French-Conversation-in-London/) and now also this website. Duolingo expects that meetings are hosted only on Duolingo, using their meeting link system. Ours doesn't work that way so their Event Manager allowed us to list the meeting link separately. This meant that Duolingo members could join our meetings but not receive XP. However there have been an increasing number of complaints about not being able to get XP which the Event Manager has been forwarding to us. We have therefore decided to remove our meeting from Duolingo for the moment.
 
-Our upcoming meeting will always be listed [at this link](/page/reunion) and you can keep in touch with us [in several other ways](/about). We will list the meetings on Duolingo in the future if possible, but I fully support the decision to remove the meetings for now.
+Our upcoming meeting will always be listed [at this link](/page/reunion) and you can keep in touch with us [in several other ways](/about). If Duolingo makes it possible for us to list our meeting again in the future without generating complaints then we will definitely do so.
 
-I do want to stress that everyone who found us through Duolingo is *absolutely* still welcome to join! We love chatting with you all, and we're sorry if this change causes you any difficulties.
+We want to stress that everyone who found us through Duolingo is *absolutely* still welcome to join! We love chatting with you all, and we're sorry if this change causes you any difficulties.
+
