@@ -9,8 +9,10 @@ text_fr=$(date --date='14:30 next sat' +"Samedi %Y-%m-%d %Hh%M heure de l'Est")
 text_en=$(date --date='14:30 next sat' +"Saturday %Y-%m-%d %I:%M %p Eastern")
 post_filename="content/meeting/$(date --date='14:30 next sat' +'%Y-%m-%d').md"
 meeting_page_filename="content/page/reunion.md"
-mtg_url='https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09'
-mtg_info='Or use [Zoom](https://zoom.us/) meeting ID 964 8937 9313 password "ensemble"'
+#mtg_url='https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09'
+mtg_url='https://meet.google.com/ecw-idmk-mmb'
+#mtg_info='Or use [Zoom](https://zoom.us/) meeting ID 964 8937 9313 password "ensemble"'
+mtg_info='Please note that the meeting URL has changed! We are switching from Zoom to Google Meet.'
 
 # delete previous meeting(s)
 echo Removing previous meetings:

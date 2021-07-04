@@ -1,6 +1,6 @@
 ---
 title: "Prochaine réunion / Upcoming meeting"
-date: 2021-07-03T15:25:59-04:00
+date: 2021-07-03T21:59:18-04:00
 expiryDate: 2021-07-17T16:30:00-04:00
 draft: false
 ---
@@ -12,9 +12,9 @@ Heure / Time
   _Saturday 2021-07-10 02:30 PM Eastern_
 
 URL
-: https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09
+: https://meet.google.com/ecw-idmk-mmb
 
-Or use [Zoom](https://zoom.us/) meeting ID 964 8937 9313 password "ensemble"
+Please note that the meeting URL has changed! We are switching from Zoom to Google Meet.
 <!--more-->
 
 Nous espérons vous voir là-bas! / _Hope to see you there!_
