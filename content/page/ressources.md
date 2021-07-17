@@ -4,7 +4,7 @@ date: 2020-08-17T21:49:10-04:00
 draft: false
 ---
 
-We don't teach French - we are deliberately a casual group just for conversation - there are no formal lessons or homework and no preparation is required. However here are some helpful links that our members recommend:
+We don't teach French - we are deliberately a casual group just for conversation, there are no formal lessons and no homework or preparation is required. However here are some helpful links that our members recommend:
 
 ## Learning
 
