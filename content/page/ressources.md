@@ -22,12 +22,16 @@ We don't teach French - we are deliberately a casual group just for conversation
 * [239 French Conversations](https://www.youtube.com/watch?v=LgA3Ynirhms) on YouTube
 * [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?utm_source=chrome-ntp-icon) - an extension for the Chrome browser - if you have a Netflix subscription, it can show subtitles in your native language and another at the same time
 
-## News
-* [ICI Radio-Canada](https://ici.radio-canada.ca/info) - Canada's public broadcasting in French
-* [Courrier International](https://www.courrierinternational.com/) - French language news from a variety of sources
+## News in French
+### Canada
+* [ICI Radio-Canada](https://ici.radio-canada.ca/info) - Canada's public broadcasting
 * [La Presse](https://www.lapresse.ca/) - independent, non-profit Québec news organisation
-* [Euronews](https://fr.euronews.com/) - French edition
+### World
+* [Courrier International](https://www.courrierinternational.com/) - French language news from a variety of sources
+* [africanews](https://fr.africanews.com/) - Pan-African news network
+* [Euronews](https://fr.euronews.com/) - Pan-European news network
 * [France 24](https://www.france24.com/fr/) - 24-hour international news TV station with a live feed, owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g))
+* [Radio France Internationale](https://www.rfi.fr/fr/) - French world public radio service
 
 ## Online Conversation Groups
   * [This group on Meetup](https://www.meetup.com/French-Conversation-in-London)
