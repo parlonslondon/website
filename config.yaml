@@ -4,13 +4,14 @@ title: Parlons London
 theme: hyde
 Menus:
   main:
-    - Name: "Tous les messages / All Posts"
+    - Name: "Tous les posts / All Posts"
       Url: "/post/"
-      Weight: 100
     - Name: "À propos de nous / About Us"
       Url: "/about"
+      Weight: 100
     - Name: "French Resources"
       Url: "/page/ressources"
+      Weight: 50
 params:
   description_fr: "Un groupe de conversation en français à London, Ontario, Canada"
   description_en: "A French conversation group in London, Ontario, Canada"
