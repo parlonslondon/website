@@ -4,6 +4,9 @@ title: Parlons London
 theme: hyde
 Menus:
   main:
+    - Name: "Tous les messages / All Posts"
+      Url: "/post/"
+      Weight: 100
     - Name: "À propos de nous / About Us"
       Url: "/about"
     - Name: "French Resources"
