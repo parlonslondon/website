@@ -14,6 +14,9 @@ We don't teach French - we are deliberately a casual group just for conversation
 * [Rosetta Stone](https://www.rosettastone.com/) - paid software with some similarities to Duolingo
 * [Free French course](https://apprendre.tv5monde.com/fr) from TV5MONDE
 
+## Reference ##
+* [WordReference](https://www.wordreference.com/fren/) - a comprehensive online dictionary (apps also available)
+
 ## Immersion: Watching and Listening
 * [Radio-Canada podcasts](https://ici.radio-canada.ca/premiere/balados) - practice listening or just immerse yourself in the sounds
 * [239 French Conversations](https://www.youtube.com/watch?v=LgA3Ynirhms) on YouTube
