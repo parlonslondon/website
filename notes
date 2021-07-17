@@ -1,0 +1,23 @@
+#!/bin/bash
+# create a new meeting notes post for the the most recent Saturday
+
+# Holy Race Conditions, Batman! Just don't run this at midnight on Friday or Saturday, OK?
+day_of_week=$(date +%u)
+if [[ $day_of_week = "6" ]]; then # today is Saturday
+    post_epoch=$(date +%s --date="16:30 saturday")
+else
+    post_epoch=$(date +%s --date="16:30 last saturday")
+fi
+post_filename="content/post/notes-$(date --date="@$post_epoch" +'%Y-%m-%d').md"
+post_time="$(date --date="@$post_epoch" --iso-8601=seconds)"
+
+cat >"${post_filename}" <<POST
+---
+title: "Notes de réunion / Meeting Notes"
+date: ${post_time}
+draft: false
+---
+
+POST
+
+emacs "${post_filename}"
