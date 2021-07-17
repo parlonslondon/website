@@ -1,15 +1,15 @@
 ---
 title: "Prochaine réunion / Upcoming meeting"
-date: 2021-07-10T15:40:29-04:00
-expiryDate: 2021-07-24T16:30:00-04:00
+date: 2021-07-17T16:54:08-04:00
+expiryDate: 2021-07-31T16:30:00-04:00
 draft: false
 ---
 
 Notre prochaine réunion en ligne / _Our next online meeting_
 
 Heure / Time
-: Samedi 2021-07-17 14h30 heure de l'Est  
-  _Saturday 2021-07-17 02:30 PM Eastern_
+: Samedi 2021-07-24 14h30 heure de l'Est  
+  _Saturday 2021-07-24 02:30 PM Eastern_
 
 URL
 : https://westernuniversity.zoom.us/j/96489379313?pwd=SGJqdStYNUN5K2wzSEFxVmoxT3luUT09
