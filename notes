@@ -18,6 +18,10 @@ date: ${post_time}
 draft: false
 ---
 
+XX personnes ont assisté.
+
+<!--more-->
+
 POST
 
 emacs "${post_filename}"
