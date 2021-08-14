@@ -1,13 +1,13 @@
 ---
 title: "Prochaine réunion / Upcoming meeting"
-date: 2021-08-14T16:44:19-04:00
+date: 2021-08-14T16:49:17-04:00
 expiryDate: 2021-08-28T16:30:00-04:00
 draft: false
 ---
 
 Notre prochaine réunion en personne / _Our next in-person meeting_
 
-Notez bien, pour l'instant il n'y a pas de réunion en ligne / Please note, for now there is no online meeting this week
+Notez bien, pour l'instant il n'y a pas de réunion en ligne / _Please note, for now there is no online meeting this week_
 
 Heure / Time
 : Samedi 2021-08-21 14h30 heure de l'Est  
