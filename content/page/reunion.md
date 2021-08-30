@@ -1,6 +1,6 @@
 ---
-title: "Prochaine réunion / Upcoming meeting"
-date: 2021-08-28T17:13:29-04:00
+title: "Prochaine réunion en personne / Upcoming in-person meeting"
+date: 2021-08-30T17:53:41-04:00
 expiryDate: 2021-09-11T16:30:00-04:00
 draft: false
 ---

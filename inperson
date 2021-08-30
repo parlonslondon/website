@@ -11,13 +11,9 @@ post_filename="content/meeting/$(date --date='14:30 next sat' +'%Y-%m-%d').md"
 meeting_page_filename="content/page/reunion.md"
 mtg_url='https://www.meetup.com/French-Conversation-in-London'
 
-# delete previous meeting(s)
-echo Removing previous meetings:
-rm -fv content/meeting/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md
-
 cat >"${post_filename}" <<POST
 ---
-title: "Prochaine réunion / Upcoming meeting"
+title: "Prochaine réunion en personne / Upcoming in-person meeting"
 date: ${post_date}
 expiryDate: ${expiry_date}
 draft: false
