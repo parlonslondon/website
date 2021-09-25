@@ -1,6 +1,6 @@
 ---
 title: "Prochaine réunion en personne / Upcoming in-person meeting"
-date: 2021-09-25T14:58:17-04:00
+date: 2021-09-25T16:36:48-04:00
 expiryDate: 2021-10-09T16:30:00-04:00
 draft: false
 ---
