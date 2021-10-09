@@ -27,7 +27,8 @@ Heure / Time
   _${text_en}_
 
 URL
-: ${mtg_url}${mtg_pass:+ password \`$mtg_pass\`}
+: ${mtg_url}
+: ${mtg_pass:+ (Mot de passe / _password_ \`$mtg_pass\`)}
 
 ${mtg_info}
 <!--more-->
