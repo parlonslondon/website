@@ -25,18 +25,18 @@ Notre prochaine réunion en ligne / _Our next online meeting_
 Heure / Time
 : ${text_fr}  
   _${text_en}_
+<!--more-->
 
 URL
 : ${mtg_url}
 : ${mtg_pass:+ (Mot de passe / _password_ \`$mtg_pass\`)}
 
 ${mtg_info}
-<!--more-->
-
-Nous espérons vous voir là-bas! / _Hope to see you there!_
 
 Zoom Meeting ID: 961 0858 9767
 Passcode: 084408
+
+Nous espérons vous voir là-bas! / _Hope to see you there!_
 
 We have some beginners, lots of intermediate-level, and some advanced/expert-level speakers. We help each other learn while enjoying good conversations! We have met every Saturday since July 2012. Please read [this](/about/) before attending.
 POST
