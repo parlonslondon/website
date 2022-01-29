@@ -10,7 +10,7 @@ text_en=$(date --date='14:30 next sat' +"Saturday %Y-%m-%d %I:%M %p Eastern")
 post_filename="content/meeting/$(date --date='14:30 next sat' +'%Y-%m-%d')-online.md"
 meeting_page_filename="content/page/reunion-en-ligne.md"
 mtg_url="${1:-https://westernuniversity.zoom.us/j/96108589767}"
-mtg_pass="$2"
+mtg_pass="${2:-084408}"
 
 cat >"${post_filename}" <<POST
 ---
@@ -25,16 +25,13 @@ Notre prochaine réunion en ligne / _Our next online meeting_
 Heure / Time
 : ${text_fr}  
   _${text_en}_
-<!--more-->
 
 URL
 : ${mtg_url}
 : ${mtg_pass:+ (Mot de passe / _password_ \`$mtg_pass\`)}
+<!--more-->
 
 ${mtg_info}
-
-Zoom Meeting ID: 961 0858 9767
-Passcode: 084408
 
 Nous espérons vous voir là-bas! / _Hope to see you there!_
 
