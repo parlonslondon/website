@@ -1,17 +1,10 @@
 ---
-title: "Prochaine réunion en personne / Upcoming in-person meeting"
-date: 2021-12-04T16:37:34-05:00
-expiryDate: 2021-12-18T16:30:00-05:00
+title: "Reunions"
+date: 2022-03-20T20:26:19-04:00
 draft: false
 ---
 
-Notre prochaine réunion en personne / _Our next in-person meeting_
-
-Heure / Time
-: Samedi 2021-12-11 14h30 heure de l'Est  
-  _Saturday 2021-12-11 02:30 PM Eastern_
-
-URL
+Toutes nos rencontres sont annoncées ici / _All of our meetings are announced here
 : https://www.meetup.com/French-Conversation-in-London
 
 <!--more-->

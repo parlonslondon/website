@@ -6,12 +6,15 @@ Menus:
   main:
     - Name: "Tous les posts / All Posts"
       Url: "/post/"
+    - Name: "Nos réunions / Our meetings"
+      Url: "/page/reunions"
+      weight: 20
     - Name: "À propos de nous / About Us"
       Url: "/about"
-      Weight: 100
+      weight: 75
     - Name: "French Resources"
       Url: "/page/ressources"
-      Weight: 50
+      weight: 50
 params:
   description_fr: "Un groupe de conversation en français à London, Ontario, Canada"
   description_en: "A French conversation group in London, Ontario, Canada"
