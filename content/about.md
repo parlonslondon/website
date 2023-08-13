@@ -11,10 +11,6 @@ _To join our mailing list send a blank email to [parlonslondon+subscribe@groups.
 
 <!--more-->
 
-En temps normal nous nous rencontrons en personne au centre-ville de London, Ontario mais pendant la crise de COVID-19 nous nous rencontrons en ligne. Non-Londoniens sont sans aucun doute bienvenue à nos réunions virtuels! Nos réunions sont très détendu et nous accueillons des locuteurs de français à tous les niveaux.
-
-_Under normal circumstances we meet in person in downtown London, Ontario but during the COVID-19 crisis we are meeting online. Non-Londoners are absolutely welcome at our online meetings! Meetings are very casual and French speakers of all levels are welcome._
-
 ### Note For French Learners
 
 When in-person this group is purely conversational. There are no lessons, no formal topics of conversation and no arranged activities, it's just a group of friends who get together in the pub, except in French. For virtual meetings we try to preserve this same feeling. When more than 6 people join it's impossible to have a conversation without accidentally interrupting each other so we split into "breakout rooms" of between 3 and 5 people, selected at random by the video software. Every 30 minutes the rooms are closed and then opened again with a different mix of people in each. This is how we try to simulate being in a pub and drifting through different conversations.
