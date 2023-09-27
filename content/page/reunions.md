@@ -4,8 +4,8 @@ date: 2022-03-20T20:26:19-04:00
 draft: false
 ---
 
-Toutes nos rencontres sont annoncées ici / _All of our meetings are announced here
-: https://www.meetup.com/French-Conversation-in-London
+Toutes nos rencontres sont annoncées ici / _All of our meetings are announced in our Heylo group, to join:
+: https://link.heylo.co/j7nz
 
 <!--more-->
 
