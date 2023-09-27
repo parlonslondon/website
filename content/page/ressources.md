@@ -34,13 +34,14 @@ We don't teach French - we are deliberately a casual group just for conversation
   * [France 24](https://www.france24.com/fr/) - 24-hour international news TV station with a live feed, owned by the French Government (also available [on YouTube](https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g))
   * [Radio France Internationale](https://www.rfi.fr/fr/) - French world public radio service
 
-## Online Conversation Groups
-  * [This group on Meetup](https://www.meetup.com/French-Conversation-in-London)
-  * [Other French groups on Meetup](https://www.meetup.com/find/?allMeetups=false&keywords=french&radius=62&userFreeform=London%2C+ON&mcId=z628590&mcName=London%2C+Ontario%2C+CA&sort=default&eventFilter=mysugg) - within 100km of London
+## Conversation Groups
+  * [This group on Heylo](https://link.heylo.co/j7nz)
+  * [French Conversation Online](https://app.heylo.co/g/26c3f5b7-82a7-4113-917c-3fe727438357) on Heylo
+  * [Other French groups on Meetup](https://www.meetup.com/find/?allMeetups=false&keywords=french&radius=62&userFreeform=London%2C+ON&mcId=z628590&mcName=London%2C+Ontario%2C+CA&sort=default&eventFilter=mysugg) - in the vicinity of London
 
 ## Local Information and Learning
   * [Vivre en Français à London](https://london.ca/immigration/vivre-en-francais-london) - list of French resources from the [City of London, Ontario](https://london.ca/)
-  * [Collège Boréal](http://continue.collegeboreal.ca/programmes/french-as-a-second-language-2/) - offers French-as-a-Second-Language courses at their downtown campus in [Citi Plaza](https://citiplazalondon.com/)
-  * [Western Continuing Studies](https://wcs.uwo.ca/public/category/programStream.do?method=load&selectedProgramAreaId=24536367&selectedProgramStreamId=24537469) - offers French classes at their downtown  [Citi Plaza](https://citiplazalondon.com/) location
+  * [Collège Boréal](https://collegeboreal.ca/en/formation/french-as-a-second-language/) - offers French-as-a-Second-Language classes at their downtown campus
+  * [Western Continuing Studies](https://wcs.uwo.ca/public/category/programStream.do?method=load&selectedProgramAreaId=24536367&selectedProgramStreamId=24537469) - offers French classes
   * [Thames Valley District School Board](https://www.tvdsb.ca/en/programs/french-as-a-second-language-programs.aspx) - offer Core French and French Immersion programs for schoolkids
   * The [London, Ontario](https://fr.wikipedia.org/wiki/London_(Ontario)) article on [French-language Wikipedia](https://fr.wikipedia.org/)
