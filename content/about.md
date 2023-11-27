@@ -15,7 +15,7 @@ _Nos réunions sont très détendu et nous accueillons des locuteurs de françai
 
 ### Note For French Learners
 
-When in-person this group is purely conversational. There are no lessons, no formal topics of conversation and no arranged activities, it's just a group of people who get together in the pub, except in French.
+This group is purely conversational. There are no lessons, no formal topics of conversation and no arranged activities, it's just a group of people who get together in the pub, except in French.
 
 If you know even a little French (what you remember from school or a few Duolingo levels) but aren't yet
 comfortable speaking you are welcome to attend just to listen and develop your "French ears". However,
@@ -25,6 +25,10 @@ chance to return to your native language. You are not expected to be a teacher o
 help beginners with questions occasionally then great!
 
 In short: relax, be tolerant, and like everything else you get out of it what you put into it.
+
+### Online
+
+We don't run online meetings any more, however some members who prefer online have split to  [another Heylo group](https://app.heylo.co/g/26c3f5b7-82a7-4113-917c-3fe727438357)
 
 ### Notes techniques / Technical notes
 
