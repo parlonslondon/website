@@ -35,7 +35,7 @@ We don't teach French - we are deliberately a casual group just for conversation
   * [Radio France Internationale](https://www.rfi.fr/fr/) - French world public radio service
 
 ## Conversation Groups
-  * [This group](https://link.heylo.co/j7nz) on Heylo
+  * [This group](https://link.heylo.co/yPFz) on Heylo
   * [French Conversation Online](https://app.heylo.co/g/26c3f5b7-82a7-4113-917c-3fe727438357) on Heylo
   * [Other French groups on Meetup](https://www.meetup.com/find/?allMeetups=false&keywords=french&radius=62&userFreeform=London%2C+ON&mcId=z628590&mcName=London%2C+Ontario%2C+CA&sort=default&eventFilter=mysugg) - in the vicinity of London
 

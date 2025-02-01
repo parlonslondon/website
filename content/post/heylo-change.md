@@ -4,10 +4,10 @@ date: 2023-09-26T20:13:32-04:00
 draft: false
 ---
 
-We are moving the group from Meetup to [Heylo](https://link.heylo.co/j7nz). Heylo offers us the same facilities that we currently use on Meetup but is simpler to use and much better value.
+We are moving the group from Meetup to [Heylo](https://link.heylo.co/yPFz). Heylo offers us the same facilities that we currently use on Meetup but is simpler to use and much better value.
 <!--more-->
 Please join us there:
-: https://link.heylo.co/j7nz
+: https://link.heylo.co/yPFz
 
 Our subscription to Meetup services expires on October 2, 2023. We have updated the Meetup group description to explain the change, and no further meeting changes or announcements will be made there. No change to the meeting times or location is planned at the moment so if you aren't able to join Heylo immediately then you can still attend at the usual time.
 

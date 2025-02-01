@@ -5,7 +5,7 @@ weight: 100
 draft: false
 ---
 
-To find our meetings, join us on our [Heylo](https://link.heylo.co/j7nz) group. _Pour retrouver nos réunions, rejoignez-nous à notre groupe de [Heylo](https://link.heylo.co/j7nz)._
+To find our meetings, join us on our [Heylo](https://link.heylo.co/yPFz) group. _Pour retrouver nos réunions, rejoignez-nous à notre groupe de [Heylo](https://link.heylo.co/yPFz)._
 
 Meetings are very casual and French speakers of all levels are welcome.
 

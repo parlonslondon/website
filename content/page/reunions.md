@@ -5,7 +5,7 @@ draft: false
 ---
 
 Toutes nos rencontres sont annoncées ici / _All of our meetings are announced in our Heylo group, to join:
-: https://link.heylo.co/j7nz
+: https://link.heylo.co/yPFz
 
 <!--more-->
 
